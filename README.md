@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishkThoria)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishkThoria&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TanishkThoria/TanishkThoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
