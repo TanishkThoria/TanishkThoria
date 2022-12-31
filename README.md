@@ -4,7 +4,7 @@ Hi, I am Tanishk Thoria!
 
 I am currently working on the following projects:
 - My Hugo Website: https://github.com/TanishkThoria/Personal-Website
-- A Hugo Theme   : https://github.com/TanishkThoria/Hugo-Programmer
+- A Hugo Theme: https://github.com/TanishkThoria/Hugo-Programmer
 
 <!---
 TanishkThoria/TanishkThoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
