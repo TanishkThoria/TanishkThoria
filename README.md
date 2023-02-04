@@ -2,7 +2,8 @@
 
 Hi, I am Tanishk Thoria!
 
-I am currently working on the following projects:
+I am primarily working on [dotfiles](https://github.com/TanishkThoria/dotfiles).
+Other projects that I try to update when I have extra time are:
 - [My Hugo Website](https://github.com/TanishkThoria/Personal-Website)
 - [Hugo-Programmer Theme](https://github.com/TanishkThoria/Hugo-Programmer)
 
