@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishkThoria&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi, I am Tanishk Thoria!
 
 I am primarily working on [dotfiles](https://github.com/TanishkThoria/dotfiles).
